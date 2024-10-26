@@ -4,5 +4,5 @@ git init
 git add .
 git commit -m "First Commit"
 git branch -M main
-git remote add origin git@github.com:<GITHUB_USERNAME>/<REPO_NAME>.git
+git remote add origin git@github.com:dronetdsp/my_package.git
 git push -u origin main
